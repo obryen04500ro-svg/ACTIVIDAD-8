@@ -89,6 +89,3 @@ Este notebook contiene:
 
 ---
 
-
-```bash
-pip install numpy pandas scikit-learn plotly ipywidgets fastapi uvicorn pydantic prometheus-client mlflow joblib

@@ -89,19 +89,6 @@ Este notebook contiene:
 
 ---
 
-## Requisitos
-
-Antes de ejecutar el notebook, asegúrate de tener instalado:
-
-- Python 3.11 o superior
-- Visual Studio Code
-- Extensión de Jupyter en VS Code
-
----
-
-## Instalación
-
-Puedes instalar las dependencias desde una terminal:
 
 ```bash
 pip install numpy pandas scikit-learn plotly ipywidgets fastapi uvicorn pydantic prometheus-client mlflow joblib
